@@ -1,8 +1,8 @@
-#I think the D.C. Police department’s “crime cards” website is a great candidate for automated scraping.
-#The site contains a table with details about all crimes over the past two years city-wide, based on DC criminal code offense definitions (so, they might reflect crimes not reported to the FBI’s UCR program).
-#Since the data stretches back for two years, keeping an automated scraper running could help build a time-series profile of crime in D.C.
-#We could write stories about the patterns and trends in the city’s crime rates, what crimes are being committed, where crimes are occurring (down to the block, because it includes that data); there are lots of possibilities.
-#We might even be able to combine the data with prosecution data to look at the incident to arrest to sentencing pipeline for particular crimes.
+# I think the D.C. Police department’s “crime cards” website is a great candidate for automated scraping.
+# The site contains a table with details about all crimes over the past two years city-wide, based on DC criminal code offense definitions (so, they might reflect crimes not reported to the FBI’s UCR program).
+# Since the data stretches back for two years, keeping an automated scraper running could help build a time-series profile of crime in D.C.
+# We could write stories about the patterns and trends in the city’s crime rates, what crimes are being committed, where crimes are occurring (down to the block, because it includes that data); there are lots of possibilities.
+# We might even be able to combine the data with prosecution data to look at the incident to arrest to sentencing pipeline for particular crimes.
 
 # importing necessary packages
 import csv
